@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Camiseta do Brasil",
+    "image_url": "https://imgnike-a.akamaihd.net/1300x1300/0228340L.jpg",
+    "type": "Camiseta",
+    "price": 349.99,
+    "seller": "Nike",
+    "available_sizes": ["P", "M", "G", "GG"],
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "sport": "Futebol"
+  },
+  {
+    "name": "Regata do Boston Celtics",
+    "image_url": "https://imgnike-a.akamaihd.net/360x360/023164NXA3.jpg",
+    "type": "Regata",
+    "price": 499.99,
+    "seller": "Adidas",
+    "available_sizes": ["P", "M", "G"],
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "sport": "Basquete"
+  },
+  {
+    "name": "Calção Nike dry-fit",
+    "image_url": "https://imgnike-a.akamaihd.net/360x360/025896IDA7.jpg",
+    "type": "Calção",
+    "price": 99.69,
+    "seller": "Puma",
+    "available_sizes": ["P", "M", "G"],
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "sport": "Corrida"
+  },
+  {
+    "name": "Calção da Nike",
+    "image_url": "https://static.netshoes.com.br/produtos/calcao-nike-dri-fit-academy-masculino/26/HZM-0829-326/HZM-0829-326_zoom1.jpg?ts=1660657811",
+    "type": "Calção",
+    "price": 109.69,
+    "seller": "Nike",
+    "available_sizes": [],
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "sport": "Corrida"
+  },
+  {
+    "name": "Meia da Jordan",
+    "image_url": "https://artwalk.vteximg.com.br/arquivos/ids/193193-1000-1000/Meia-Nike-Jordan-Jumpman-Masculina.jpg?v=636210228372600000",
+    "type": "Acessório",
+    "price": 119.69,
+    "seller": "Jordan",
+    "available_sizes": ["44", "39"],
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "sport": "Basquete"
+  },
+  {
+    "name": "Tênis Nike Air Max",
+    "image_url": "https://imgnike-a.akamaihd.net/360x360/01122452A11.jpg",
+    "type": "Calçado",
+    "price": 799.99,
+    "seller": "Nike",
+    "available_sizes": ["38", "39", "40", "41", "42", "43", "44"],
+    "details": "Tênis Nike Air Max com tecnologia de amortecimento Air Max para maior conforto e estilo.",
+    "sport": "Corrida"
+  },
+  {
+    "name": "Chuteira Nike Mercurial",
+    "image_url": "https://imgnike-a.akamaihd.net/360x360/0295130LA1.jpg",
+    "type": "Calçado",
+    "price": 599.99,
+    "seller": "Nike",
+    "available_sizes": ["39", "40", "41", "42", "43"],
+    "details": "Chuteira Nike Mercurial, projetada para velocidade e precisão em campo.",
+    "sport": "Futebol"
+  },
+  {
+    "name": "Camiseta Nike Dri-FIT",
+    "image_url": "https://imgnike-a.akamaihd.net/360x360/016667IDA5.jpg",
+    "type": "Camiseta",
+    "price": 199.99,
+    "seller": "Nike",
+    "available_sizes": ["P", "M", "G", "GG"],
+    "details": "Camiseta Nike Dri-FIT, feita com tecnologia de absorção de suor para maior conforto durante os treinos.",
+    "sport": "Treino"
+  },
+  {
+    "name": "Tênis Nike Revolution",
+    "image_url": "https://imgnike-a.akamaihd.net/768x768/027285ID.jpg",
+    "type": "Calçado",
+    "price": 299.99,
+    "seller": "Nike",
+    "available_sizes": ["38", "39", "40", "41", "42", "43", "44"],
+    "details": "Tênis Nike Revolution, ideal para corridas leves e caminhadas, com amortecimento suave e design moderno.",
+    "sport": "Corrida"
+  },
+  {
+    "name": "Shorts Nike Flex",
+    "image_url": "https://imgnike-a.akamaihd.net/360x360/011971IDA9.jpg",
+    "type": "Shorts",
+    "price": 149.99,
+    "seller": "Nike",
+    "available_sizes": ["P", "M", "G"],
+    "details": "Shorts Nike Flex, com tecido elástico e leve, perfeito para atividades físicas intensas.",
+    "sport": "Treino"
+  },
+  {
+    "name": "Mochila Nike Heritage",
+    "image_url": "https://imgnike-a.akamaihd.net/360x360/012822IDA9.jpg",
+    "type": "Acessório",
+    "price": 249.99,
+    "seller": "Nike",
+    "available_sizes": ["Único"],
+    "details": "Mochila Nike Heritage, com compartimentos espaçosos e design clássico, ideal para o dia a dia.",
+    "sport": "Casual"
+  },
+  {
+    "name": "Corta-Vento Nike Windrunner",
+    "image_url": "https://imgnike-a.akamaihd.net/360x360/011917IDA13.jpg",
+    "type": "Jaqueta",
+    "price": 399.99,
+    "seller": "Nike",
+    "available_sizes": ["P", "M", "G", "GG"],
+    "details": "Corta-Vento Nike Windrunner, leve e resistente ao vento, perfeito para corridas ao ar livre.",
+    "sport": "Corrida"
+  }
+]
